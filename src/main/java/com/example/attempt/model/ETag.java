@@ -1,0 +1,19 @@
+package com.example.attempt.model;
+
+public enum ETag {
+    ALL,
+    AUTOMOTIVE_BUSINESS,
+    ADMINISTRATIVE_STAFF,
+    SAFETY,
+    TOP_MANAGEMENT,
+    PURCHASES,
+    INFORMATION_TECHNOLOGY,
+    ART,
+    ADVERTISING,
+    MEDICINE,
+    SALES,
+    TOURISM,
+    PERSONNEL_MANAGEMENT,
+    LAWYERS,
+    OTHER
+}
